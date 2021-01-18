@@ -1,6 +1,2 @@
-git is test 
-git is test again
-test add anothor line
-测试未add下提交分支差异
-测试未add下提交分支差异
-本地修改上上传远程GitHub仓库
+git：分布式版本管理工具，有网无网都可以做提交操作，有网时再统一进行远程提交。
+svn：集中式版本管理工具，只有在有网的情况下才能进行提交操作，无网时则不能操作。
